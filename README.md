@@ -40,7 +40,6 @@ This video only demonstrates avatar.kt and shapes.kt.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [w3schools/kotlin](https://www.w3schools.com/kotlin/)
 * [Kotlin Documentation](https://kotlinlang.org/)
 * [codecademy](https://www.codecademy.com/learn)
@@ -52,6 +51,5 @@ All of this is for main avatar program:
 * No way to handle 3-way tie
 * Tie is triggered if anything ties, not just high score
 * Not sure why I get a warning that 'water' assigned to 'var highScore' is never used
-*       No warnings about other variables and I can end with water highScore
 * No error handling for potential capital letter input
 * Code could probably be efficient with some revision
