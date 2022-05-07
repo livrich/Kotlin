@@ -518,19 +518,10 @@ fun main() {
 }
 
 
-// Current issues:
-// What if there is a three way tie (guess it will blow up or only resolve 1 tie)
-// Need way to only trigger tie if tied number is higest number
-// Not sure why I get a warning that 'water' assigned to 'var highScore' is never used
-        // No warnings about other variables and I can end with highScore in water
-// Can't force something to be lowercase
-// Can't get a class to work
-// There are no loops in my code
-
-
 // How to compile and run code:
 // kotlinc demo.kt
 // kotlin DemoKt
 
+// Will work but not the best way to run:
 // kotlinc filename.kt -d outfilename.jar
 // java -jar outfilename.jar
